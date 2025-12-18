@@ -20,11 +20,11 @@ const projects = [
   link: "https://oliveira-associados-web.vercel.app/",
   },
   {
-    title: "Em Breve / Outro Projeto",
-    description: "Espaço reservado para seu próximo grande projeto ou aplicação web.",
-    techs: ["Em desenvolvimento"],
-    image: "/projeto3.jpg", 
-    link: "#",
+    title: "Kill &. Cross",
+    description: "Landing Page Premium de alto padrão, focada em exposiçao e marketing, com design moderno.",
+    techs: ["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],
+    image: "/kill.png", 
+    link: "https://kill-cross-web.vercel.app/",
   },
 ];
 
