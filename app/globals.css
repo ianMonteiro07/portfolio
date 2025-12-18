@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* TEMA CLARO (DIA) - Gradiente Azul/Roxo */
+body {
+  background: linear-gradient(to right, #8ec5fc 0%, #e0c3fc 100%) !important;
+  min-height: 100vh;
+}
+
+/* TEMA ESCURO (NOITE) - A Correção está aqui */
+.dark body {
+  /* Mudei de #0a0a0a (Preto) para #111827 (O Cinza Escuro original) */
+  background: #111827 !important; 
+  background-image: none !important;
+  color: white !important;
+}
