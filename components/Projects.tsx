@@ -20,7 +20,7 @@ const projects = [
   link: "https://oliveira-associados-web.vercel.app/",
   },
   {
-    title: "Kill &. Cross",
+    title: "Kill & Cross",
     description: "Landing Page Premium de alto padrão, focada em exposiçao e marketing, com design moderno.",
     techs: ["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],
     image: "/kill.png", 
